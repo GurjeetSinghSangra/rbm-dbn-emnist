@@ -1,5 +1,5 @@
 # rbm-dbn-emnist
-Deep belief network (DBN) implementation and analysis on EMNIST dataset using GPU on Google Colab.
+Deep belief network (DBN) implementation and analysis on EMNIST dataset using Google Colab.
 
 The DBN class model has been adapted from Matlab source code provided by Computational Cognitive Neuroscience Lab, from University of Padova (ccnl.psy.unipd.it).
 
